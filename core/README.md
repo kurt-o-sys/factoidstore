@@ -1,9 +1,12 @@
-# Vert.x Example Maven Project
+# Factoidstore
 
-Example project for creating a Vert.x module with a Gradle build.
+Project in development, based on vertx. 
 
-By default this module contains a simple Java verticle which listens on the event bus and responds to `ping!`
-messages with `pong!`.
+## Aim
 
-This example also shows you how to write tests in Java, Groovy, Ruby and Python
+Data is a big issue. Data is big, and it's about big data. There is SQL and NoSQL. There's also event sourcing. And there are programming design patterns and architectures. Mapping between databases and domain logic isn't always easy, or pretty damn'd hard in other cases.
+
+So, one day I just thought, why not develop a kind of event store in which CQRS is embedded. So this is it, a first attempt, but in development. 
+
+## Factoid?
 
