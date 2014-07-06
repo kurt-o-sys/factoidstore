@@ -15,4 +15,4 @@ What the hell, factoid? Well, yeah, it's just, the events stored digitally don't
 > A factoid is a questionable or spurious (unverified, false, or fabricated) statement presented as a fact, 
 > but without supporting evidence, although the term can have conflicting meanings.
 
-from: [wikipedia](http://en.wikipedia.org/wiki/Factoid/ "Factoid")
+from: [wikipedia](http://en.wikipedia.org/wiki/Factoid "Factoid")
